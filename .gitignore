@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+ircserv
+bot
+*.out
+
+# Debug files
+*.dSYM/
+
+# IDE and editor files
+.vscode/
+.DS_Store
+
+
+# Build directory
+/obj/
+/build/
+
+# Dependency directories
+/deps/
+
+# Environment configuration
+.env
+*.env
+!bonus/.env
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
