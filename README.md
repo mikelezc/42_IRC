@@ -82,6 +82,7 @@ Why is this important?
 Without non-blocking mode, your server could get "stuck" waiting for data from a client. With fcntl() in non-blocking mode, the server can handle multiple clients simultaneously without stopping.
 
 
+## Authors
 
-
-
+- mlezcano - [GitHub Profile](https://github.com/mikelezc)
+- ampjimen - [GitHub Profile](https://github.com/Amparojd)
